@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "facts": [
     {
       "id": "work_wrong_path",
@@ -13,7 +13,7 @@
       "id": "work_impostor",
       "category": "Work",
       "statistic": "70%",
-      "description": "of professionals experience\nimpostor syndrome\nat some point.",
+      "description": "of professionals experience\nimpostor syndrome.",
       "source": "IJBS, 2011",
       "sourceUrl": "https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf"
     },
@@ -93,7 +93,7 @@
       "id": "mental_regret",
       "category": "Mental Health",
       "statistic": "90%",
-      "description": "of people rethink\nmajor life decisions\nat some point.",
+      "description": "of people rethink\nmajor life decisions.",
       "source": "JP, 2016",
       "sourceUrl": "https://psycnet.apa.org/record/2016-17825-001"
     },
@@ -101,7 +101,7 @@
       "id": "mental_overthinking",
       "category": "Mental Health",
       "statistic": "73%",
-      "description": "of young adults\nexperience chronic\noverthinking.",
+      "description": "of young adults\nexperience overthinking.",
       "source": "UMich, 2020",
       "sourceUrl": "https://news.umich.edu/overthinking/"
     },
@@ -141,7 +141,7 @@
       "id": "mental_1in4",
       "category": "Mental Health",
       "statistic": "1 in 4",
-      "description": "people experience\na mental health challenge\neach year.",
+      "description": "people experience\na mental health challenge.",
       "source": "WHO, 2023",
       "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders"
     },
@@ -149,7 +149,7 @@
       "id": "health_exercise",
       "category": "Health",
       "statistic": "Only 23%",
-      "description": "of adults meet exercise\nguidelines.",
+      "description": "of adults meet\nexercise guidelines.",
       "source": "CDC, 2022",
       "sourceUrl": "https://www.cdc.gov/nchs/fastats/exercise.htm"
     },
