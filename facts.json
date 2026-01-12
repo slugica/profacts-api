@@ -1,14 +1,6 @@
 {
-  "version": 2,
+  "version": 3,
   "facts": [
-    {
-      "id": "test_remote",
-      "category": "Success",
-      "statistic": "100%",
-      "description": "этот факт загружен\nс сервера.\nРаботает!",
-      "source": "ProFacts Test",
-      "sourceUrl": "https://github.com/slugica/profacts-api"
-    },
     {
       "id": "work_wrong_path",
       "category": "Work",
