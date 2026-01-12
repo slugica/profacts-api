@@ -1,0 +1,165 @@
+{
+  "version": 1,
+  "facts": [
+    {
+      "id": "work_wrong_path",
+      "category": "Work",
+      "statistic": "72%",
+      "description": "of people aged 30-40 believe\nthey chose the wrong\ncareer path.",
+      "source": "OECD, 2023",
+      "sourceUrl": "https://www.oecd.org/employment/outlook/"
+    },
+    {
+      "id": "work_impostor",
+      "category": "Work",
+      "statistic": "70%",
+      "description": "of professionals experience\nimpostor syndrome at least once\nin their career.",
+      "source": "IJBS, 2011",
+      "sourceUrl": "https://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf"
+    },
+    {
+      "id": "work_job_changes",
+      "category": "Work",
+      "statistic": "5-7",
+      "description": "times the average person\nchanges careers during\ntheir working life.",
+      "source": "BLS, 2022",
+      "sourceUrl": "https://www.bls.gov/news.release/nlsoy.htm"
+    },
+    {
+      "id": "relationships_close_friends",
+      "category": "Relationships",
+      "statistic": "3-5",
+      "description": "close friends is what\nthe average adult has.\n49% report having 3 or fewer.",
+      "source": "SCAL, 2021",
+      "sourceUrl": "https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/"
+    },
+    {
+      "id": "relationships_loneliness",
+      "category": "Relationships",
+      "statistic": "61%",
+      "description": "of adults report\nfeeling lonely.\nHighest among ages 18-25.",
+      "source": "Cigna, 2022",
+      "sourceUrl": "https://newsroom.cigna.com/loneliness-epidemic-persists-post-pandemic-look"
+    },
+    {
+      "id": "relationships_no_partner",
+      "category": "Relationships",
+      "statistic": "44%",
+      "description": "of US adults aged 18+\nare single — never married,\ndivorced, or widowed.",
+      "source": "Pew Research, 2023",
+      "sourceUrl": "https://www.pewresearch.org/social-trends/2023/02/08/facts-about-single-americans/"
+    },
+    {
+      "id": "success_life_priorities",
+      "category": "Success",
+      "statistic": "3-5",
+      "description": "times most people\nsignificantly change their\nlife priorities in adulthood.",
+      "source": "JAD, 2019",
+      "sourceUrl": "https://link.springer.com/journal/10804"
+    },
+    {
+      "id": "success_uncertainty",
+      "category": "Success",
+      "statistic": "83%",
+      "description": "of adults under 35\nreport uncertainty about\ntheir long-term life goals.",
+      "source": "Harvard, 2021",
+      "sourceUrl": "https://www.adultdevelopmentstudy.org/"
+    },
+    {
+      "id": "success_late_founder",
+      "category": "Success",
+      "statistic": "45",
+      "description": "is the average age of\na successful startup founder.\nNot 25.",
+      "source": "HBR, 2018",
+      "sourceUrl": "https://hbr.org/2018/07/research-the-average-age-of-a-successful-startup-founder-is-45"
+    },
+    {
+      "id": "money_savings",
+      "category": "Money",
+      "statistic": "56%",
+      "description": "of Americans cannot cover\nan unexpected $1000 expense\nwith savings.",
+      "source": "Bankrate, 2023",
+      "sourceUrl": "https://www.bankrate.com/banking/savings/emergency-savings-report/"
+    },
+    {
+      "id": "money_comparison",
+      "category": "Money",
+      "statistic": "78%",
+      "description": "of workers live\npaycheck to paycheck.\nIncludes 50% earning over $100k.",
+      "source": "CareerBuilder, 2022",
+      "sourceUrl": "https://www.careerbuilder.com/advice/living-paycheck-to-paycheck-is-a-way-of-life-for-majority-of-us-workers"
+    },
+    {
+      "id": "mental_regret",
+      "category": "Mental Health",
+      "statistic": "90%",
+      "description": "of people report having\nat least one major life regret.\nMost common: education, career.",
+      "source": "JP, 2016",
+      "sourceUrl": "https://psycnet.apa.org/record/2016-17825-001"
+    },
+    {
+      "id": "mental_overthinking",
+      "category": "Mental Health",
+      "statistic": "73%",
+      "description": "of adults aged 25-35\nreport chronic\noverthinking.",
+      "source": "UMich, 2020",
+      "sourceUrl": "https://news.umich.edu/overthinking/"
+    },
+    {
+      "id": "self_not_good_enough",
+      "category": "Self-Image",
+      "statistic": "85%",
+      "description": "of the world's population\nis affected by\nlow self-esteem.",
+      "source": "Dove, 2017",
+      "sourceUrl": "https://www.dove.com/us/en/stories/about-dove/self-esteem-statistics.html"
+    },
+    {
+      "id": "self_comparison",
+      "category": "Self-Image",
+      "statistic": "10x",
+      "description": "per day the average person\nmakes social comparisons\nwith others.",
+      "source": "JSP, 2019",
+      "sourceUrl": "https://www.tandfonline.com/toc/vsoc20/current"
+    },
+    {
+      "id": "mental_social_anxiety",
+      "category": "Mental Health",
+      "statistic": "65%",
+      "description": "of adults report feeling\nsocially anxious\nin group settings.",
+      "source": "ADAA, 2022",
+      "sourceUrl": "https://adaa.org/understanding-anxiety/social-anxiety-disorder"
+    },
+    {
+      "id": "relationships_lose_friends",
+      "category": "Relationships",
+      "statistic": "2",
+      "description": "close friends adults lose\non average every decade\ndue to life changes.",
+      "source": "Oxford, 2016",
+      "sourceUrl": "https://royalsocietypublishing.org/doi/10.1098/rsos.160097"
+    },
+    {
+      "id": "mental_1in4",
+      "category": "Mental Health",
+      "statistic": "1 in 4",
+      "description": "people will experience\na mental health condition\nin any given year.",
+      "source": "WHO, 2023",
+      "sourceUrl": "https://www.who.int/news-room/fact-sheets/detail/mental-disorders"
+    },
+    {
+      "id": "health_exercise",
+      "category": "Health",
+      "statistic": "Only 23%",
+      "description": "of adults meet\nrecommended physical\nactivity guidelines.",
+      "source": "CDC, 2022",
+      "sourceUrl": "https://www.cdc.gov/nchs/fastats/exercise.htm"
+    },
+    {
+      "id": "sleep_less_than_7",
+      "category": "Sleep",
+      "statistic": "35%",
+      "description": "of adults report getting\nless than 7 hours of sleep\nper night.",
+      "source": "CDC, 2023",
+      "sourceUrl": "https://www.cdc.gov/sleep/data-and-statistics/adults.html"
+    }
+  ]
+}
