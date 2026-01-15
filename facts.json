@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "facts": [
     {
       "id": "work_wrong_path",
@@ -207,6 +207,15 @@
       "source": "JSP, 2019",
       "sourceUrl": "https://www.tandfonline.com/toc/vsoc20/current",
       "moods": ["neutral", "bad"]
+    },
+    {
+      "id": "self_social_media",
+      "category": "Self-Image",
+      "statistic": "62%",
+      "description": "feel their life is lacking\nwhen comparing to others online.",
+      "source": "Cybersmile, 2023",
+      "sourceUrl": "https://www.cybersmile.org/2023/06/16/exploring-the-impact-of-social-comparisons-on-gen-z/",
+      "moods": ["bad", "terrible"]
     },
     {
       "id": "mental_social_anxiety",
