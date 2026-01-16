@@ -168,6 +168,27 @@
       "sheetBackgroundColor": {"r": 0.12, "g": 0.10, "b": 0.08},
       "sheetTextColor": {"r": 0.98, "g": 0.95, "b": 0.90},
       "accentColor": {"r": 0.95, "g": 0.65, "b": 0.35}
+    },
+    {
+      "id": "hearth",
+      "name": "Hearth",
+      "category": "Nature",
+      "isFree": false,
+      "isDark": true,
+      "useMaterial": true,
+      "backgroundImageUrl": "https://cdn.jsdelivr.net/gh/slugica/profacts-api@main/images/FireplaceBg.png",
+      "backgroundImageThumbnailUrl": "https://cdn.jsdelivr.net/gh/slugica/profacts-api@main/images/thumbnails/FireplaceBg.png",
+      "backgroundColor": {"r": 0.08, "g": 0.05, "b": 0.03},
+      "backgroundGradient": null,
+      "textColor": {"r": 1.0, "g": 0.98, "b": 0.94},
+      "fontName": "Baskerville",
+      "fontSize": 24,
+      "fontWeight": "medium",
+      "buttonBackgroundColor": {"r": 1.0, "g": 0.9, "b": 0.8, "a": 0.2},
+      "buttonTextColor": {"r": 1.0, "g": 0.98, "b": 0.94},
+      "sheetBackgroundColor": {"r": 0.12, "g": 0.08, "b": 0.05},
+      "sheetTextColor": {"r": 1.0, "g": 0.98, "b": 0.94},
+      "accentColor": {"r": 1.0, "g": 0.6, "b": 0.3}
     }
   ]
 }
