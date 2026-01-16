@@ -147,6 +147,27 @@
       "sheetBackgroundColor": {"r": 0.98, "g": 0.96, "b": 0.98},
       "sheetTextColor": {"r": 0.2, "g": 0.2, "b": 0.3},
       "accentColor": {"r": 0.7, "g": 0.5, "b": 0.7}
+    },
+    {
+      "id": "ember",
+      "name": "Ember",
+      "category": "Nature",
+      "isFree": false,
+      "isDark": true,
+      "useMaterial": true,
+      "backgroundImageUrl": null,
+      "backgroundImageThumbnailUrl": null,
+      "backgroundColor": {"r": 0.08, "g": 0.06, "b": 0.05},
+      "backgroundGradient": null,
+      "textColor": {"r": 0.98, "g": 0.95, "b": 0.90},
+      "fontName": "Palatino",
+      "fontSize": 24,
+      "fontWeight": "medium",
+      "buttonBackgroundColor": {"r": 1.0, "g": 0.95, "b": 0.85, "a": 0.15},
+      "buttonTextColor": {"r": 0.98, "g": 0.95, "b": 0.90},
+      "sheetBackgroundColor": {"r": 0.12, "g": 0.10, "b": 0.08},
+      "sheetTextColor": {"r": 0.98, "g": 0.95, "b": 0.90},
+      "accentColor": {"r": 0.95, "g": 0.65, "b": 0.35}
     }
   ]
 }
