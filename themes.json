@@ -189,6 +189,27 @@
       "sheetBackgroundColor": {"r": 0.12, "g": 0.08, "b": 0.05},
       "sheetTextColor": {"r": 1.0, "g": 0.98, "b": 0.94},
       "accentColor": {"r": 1.0, "g": 0.6, "b": 0.3}
+    },
+    {
+      "id": "serenity",
+      "name": "Serenity",
+      "category": "Nature",
+      "isFree": true,
+      "isDark": false,
+      "useMaterial": true,
+      "backgroundImageUrl": "https://cdn.jsdelivr.net/gh/slugica/profacts-api@main/images/SerenityBg.png",
+      "backgroundImageThumbnailUrl": "https://cdn.jsdelivr.net/gh/slugica/profacts-api@main/images/thumbnails/SerenityBg.png",
+      "backgroundColor": {"r": 0.92, "g": 0.90, "b": 0.95},
+      "backgroundGradient": null,
+      "textColor": {"r": 0.20, "g": 0.22, "b": 0.30},
+      "fontName": "Avenir Next",
+      "fontSize": 22,
+      "fontWeight": "medium",
+      "buttonBackgroundColor": {"r": 0.25, "g": 0.27, "b": 0.35, "a": 0.12},
+      "buttonTextColor": {"r": 0.20, "g": 0.22, "b": 0.30},
+      "sheetBackgroundColor": {"r": 0.96, "g": 0.95, "b": 0.98},
+      "sheetTextColor": {"r": 0.20, "g": 0.22, "b": 0.30},
+      "accentColor": {"r": 0.55, "g": 0.50, "b": 0.70}
     }
   ]
 }
