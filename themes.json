@@ -210,6 +210,27 @@
       "sheetBackgroundColor": {"r": 0.96, "g": 0.95, "b": 0.98},
       "sheetTextColor": {"r": 0.20, "g": 0.22, "b": 0.30},
       "accentColor": {"r": 0.55, "g": 0.50, "b": 0.70}
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "category": "Nature",
+      "isFree": false,
+      "isDark": true,
+      "useMaterial": true,
+      "backgroundImageUrl": "https://cdn.jsdelivr.net/gh/slugica/profacts-api@main/images/AuroraBg.png",
+      "backgroundImageThumbnailUrl": "https://cdn.jsdelivr.net/gh/slugica/profacts-api@main/images/thumbnails/AuroraBg.png",
+      "backgroundColor": {"r": 0.03, "g": 0.05, "b": 0.12},
+      "backgroundGradient": null,
+      "textColor": {"r": 0.95, "g": 1.0, "b": 0.98},
+      "fontName": "Futura",
+      "fontSize": 22,
+      "fontWeight": "medium",
+      "buttonBackgroundColor": {"r": 0.3, "g": 0.9, "b": 0.7, "a": 0.15},
+      "buttonTextColor": {"r": 0.95, "g": 1.0, "b": 0.98},
+      "sheetBackgroundColor": {"r": 0.05, "g": 0.08, "b": 0.15},
+      "sheetTextColor": {"r": 0.95, "g": 1.0, "b": 0.98},
+      "accentColor": {"r": 0.3, "g": 0.9, "b": 0.6}
     }
   ]
 }
