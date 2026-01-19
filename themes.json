@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "collections": [
     {
       "id": "popular",
@@ -9,7 +9,7 @@
     {
       "id": "new",
       "name": "New",
-      "themeIds": ["aurora", "cosmos_lunar", "serenity"]
+      "themeIds": ["sanctuary", "aurora", "cosmos_lunar", "serenity"]
     }
   ],
   "themes": [
@@ -243,6 +243,28 @@
       "sheetBackgroundColor": {"r": 0.05, "g": 0.08, "b": 0.15},
       "sheetTextColor": {"r": 0.95, "g": 1.0, "b": 0.98},
       "accentColor": {"r": 0.3, "g": 0.9, "b": 0.6}
+    },
+    {
+      "id": "sanctuary",
+      "name": "Sanctuary",
+      "category": "Nature",
+      "isFree": false,
+      "isDark": true,
+      "useMaterial": true,
+      "backgroundImageUrl": null,
+      "backgroundImageThumbnailUrl": null,
+      "backgroundColor": {"r": 0.08, "g": 0.10, "b": 0.14},
+      "backgroundGradient": null,
+      "textColor": {"r": 1.0, "g": 0.98, "b": 0.92},
+      "fontName": "Baskerville",
+      "fontSize": 24,
+      "fontWeight": "medium",
+      "buttonBackgroundColor": {"r": 1.0, "g": 0.9, "b": 0.7, "a": 0.2},
+      "buttonTextColor": {"r": 1.0, "g": 0.98, "b": 0.92},
+      "sheetBackgroundColor": {"r": 0.10, "g": 0.12, "b": 0.16},
+      "sheetTextColor": {"r": 1.0, "g": 0.98, "b": 0.92},
+      "accentColor": {"r": 0.95, "g": 0.75, "b": 0.35},
+      "isNew": true
     }
   ]
 }
