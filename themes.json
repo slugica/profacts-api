@@ -1,5 +1,17 @@
 {
-  "version": 2,
+  "version": 3,
+  "collections": [
+    {
+      "id": "popular",
+      "name": "Most popular",
+      "themeIds": ["hearth", "cosmos_earth", "morning_sky", "aurora", "serenity", "ocean_beach"]
+    },
+    {
+      "id": "new",
+      "name": "New",
+      "themeIds": ["aurora", "cosmos_lunar", "serenity"]
+    }
+  ],
   "themes": [
     {
       "id": "quiet",
