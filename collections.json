@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "collections": [
+    {
+      "id": "popular",
+      "name": "Most popular",
+      "themeIds": ["hearth", "cosmos_nebula", "morning_sky", "aurora"]
+    },
+    {
+      "id": "new",
+      "name": "New",
+      "themeIds": ["deep_blue", "sanctuary"]
+    }
+  ]
+}
