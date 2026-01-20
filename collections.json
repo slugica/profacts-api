@@ -1,10 +1,10 @@
 {
-  "version": 1,
+  "version": 2,
   "collections": [
     {
       "id": "popular",
       "name": "Most popular",
-      "themeIds": ["hearth", "cosmos_nebula", "morning_sky", "aurora"]
+      "themeIds": ["hearth", "cosmos_earth", "morning_sky", "aurora", "serenity", "ocean_beach"]
     },
     {
       "id": "new",
