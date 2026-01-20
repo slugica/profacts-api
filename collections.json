@@ -9,7 +9,7 @@
     {
       "id": "new",
       "name": "New",
-      "themeIds": ["deep_blue", "sanctuary"]
+      "themeIds": ["deep_blue", "sanctuary", "underwater"]
     }
   ]
 }
